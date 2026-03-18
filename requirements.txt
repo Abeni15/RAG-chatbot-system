@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+gradio
+langchain-text-splitters
+nltk
+pytesseract
+pillow
